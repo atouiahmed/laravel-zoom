@@ -59,13 +59,4 @@
     },
     "minimum-stability": "dev",
     "prefer-stable": true,
-    "repositories": [
-        {
-            "type": "vcs",
-            "url": "https://github.com/atouiahmed/laravel-api-client",
-            "options": {
-                "symlink": true
-            }
-        }
-    ]
 }
