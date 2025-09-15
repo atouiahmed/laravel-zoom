@@ -1,9 +1,9 @@
 {
-    "name": "atouiahmed/laravel-zoom",
+    "name": "macsidigital/laravel-zoom",
     "description": "Laravel Zoom package",
-    "homepage": "https://github.com/atouiahmed/laravel-zoom",
+    "homepage": "https://github.com/MacsiDigital/laravel-zoom",
     "keywords": [
-        "atouiahmed",
+        "macsidigital",
         "laravel-zoom",
         "zoom",
         "laravel",
@@ -14,8 +14,8 @@
     "type": "library",
     "authors": [
         {
-            "name": "Ahmed Atoui",
-            "email": "a.atoui@tts.sa",
+            "name": "Colin Hall",
+            "email": "colin@macsi.co.uk",
             "role": "Developer"
         }
     ],
